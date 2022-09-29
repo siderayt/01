@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SWDGitHub2014
+- 👋 Hi, I’m Siddharth S.
 - 👀 I’m interested in hiring IT Candidates
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate with somebody so that i can learn GitHub
